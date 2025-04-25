@@ -1,4 +1,4 @@
-
+ -- 
 Table brand {
   brand_id int [pk]
   name varchar
